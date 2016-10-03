@@ -1,8 +1,10 @@
 # HatShopProject
 This is a XAML application for a fictional hat shop Hats4.
+
 Created by Ryun Valdez, John Holland, and Cole Maltese.
 
 This project was completed using Visual Studio. 
+
 Objects are stored within a text file in JSON format to immitate a small database.
 
 Login Info:
