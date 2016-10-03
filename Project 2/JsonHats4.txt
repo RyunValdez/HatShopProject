@@ -1,0 +1,45 @@
+{
+  "FittedHat": [
+    {
+      "RIF_ID": "1",
+      "Name": "Cole's Fitted Hat, Size 7",
+      "Price": 21.89,
+      "Quantity": 3,
+      "Description": "The Latest from Cole's line of Fitted Baseball Caps.", 
+      "Size": "7"
+    },
+    {
+      "RIF_ID": "2",
+      "Name": "Cole's Fitted Hat, Size 7 3/8",
+      "Price": 21.89,
+      "Quantity": 2,
+      "Description": "The Latest from Cole's line of Fitted Baseball Caps.", 
+      "Size": "7 3/8"
+    }
+    ],
+  
+  "SnapBackHat": [
+    {
+      "RIF_ID": "3",
+      "Name": "Ryun's Snap Back Hat",
+      "Price": 21.89,
+      "Quantity": 15,
+      "Description": "The Latest from Ryun's line of Retro Snap Back."
+    },
+    {
+      "RIF_ID": "4",
+      "Name": "John's Snap Back Hat",
+      "Price": 21.89,
+      "Quantity": 18,
+      "Description": "The Latest from John's line of Snap Back Baseball Caps."
+    }],
+    
+      "Merchandise": [
+    {
+      "RIF_ID": "5",
+      "Name": "Hats4 Hat Protectant",
+      "Price": 12.89,
+      "Quantity": 15,
+      "Description": "The Greatest Hat protection technology in a bottle to protect your hat from the elements."
+    }]
+}  
