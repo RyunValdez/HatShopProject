@@ -5,7 +5,9 @@ Created by Ryun Valdez, John Holland, and Cole Maltese.
 This project was completed using Visual Studio. 
 Objects are stored within a text file in JSON format to immitate a small database.
 
-Password: Username - Ryun
+Login Info:
+
+          Username - Ryun
 
           Password - Ryun123
 
