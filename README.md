@@ -5,7 +5,7 @@ Created by Ryun Valdez, John Holland, and Cole Maltese.
 
 This project was completed using Visual Studio. 
 
-Objects are stored within a text file in JSON format to immitate a small database.
+Objects are stored within a text file in JSON format to imitate a small database.
 
 Login Info:
 
